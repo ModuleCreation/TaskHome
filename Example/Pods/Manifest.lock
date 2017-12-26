@@ -1,0 +1,16 @@
+PODS:
+  - HomeTask (0.1.0)
+
+DEPENDENCIES:
+  - HomeTask (from `../`)
+
+EXTERNAL SOURCES:
+  HomeTask:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HomeTask: c572871cf371e1d865380ef302694d155759a960
+
+PODFILE CHECKSUM: ddfac94b82c566394f161754a6d7f62e601c3631
+
+COCOAPODS: 1.3.0.beta.1

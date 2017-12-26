@@ -1,0 +1,6 @@
+framework module HomeTask {
+  umbrella header "HomeTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
